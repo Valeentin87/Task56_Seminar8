@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Seminar8_Itog\\Task56\\Task56.csproj": {}
+    "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Task56\\Task56.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Seminar8_Itog\\Task56\\Task56.csproj": {
+    "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Task56\\Task56.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Seminar8_Itog\\Task56\\Task56.csproj",
+        "projectUniqueName": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Task56\\Task56.csproj",
         "projectName": "Task56",
-        "projectPath": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Seminar8_Itog\\Task56\\Task56.csproj",
+        "projectPath": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Task56\\Task56.csproj",
         "packagesPath": "C:\\Users\\Борисович\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Seminar8_Itog\\Task56\\obj\\",
+        "outputPath": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Task56\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Борисович\\AppData\\Roaming\\NuGet\\NuGet.Config"
